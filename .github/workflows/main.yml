@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: node src/calculator.test.js
+      - run: node calculator.test.js
